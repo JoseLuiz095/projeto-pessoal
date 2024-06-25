@@ -3,7 +3,7 @@ import Home from "./components/pages/Home.js";
 import Contact from "./components/pages/Contact.js";
 import Company from "./components/pages/Company.js";
 import NewProject from "./components/pages/NewProject.js";
-import Projects from "./components/pages/Projects"
+import Projects from "./components/pages/Projects.js"
 
 import Conteiner from './components/layout/Conteiner.js';
 import Navbar from "./components/layout/Navbar.js";
