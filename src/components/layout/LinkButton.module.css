@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn{
     background-color: #222;
     color: #fff;
@@ -8,4 +9,16 @@
 }
 .btn:hover{
     color: #ffbb33;
+=======
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: .5em 1em;
+    border-radius: .5em;
+    text-decoration: none;
+    transition: .5s;
+}
+.btn:hover{
+    color: #ffbb33;
+>>>>>>> origin/main
 }
