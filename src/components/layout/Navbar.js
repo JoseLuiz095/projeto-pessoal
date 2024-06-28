@@ -1,4 +1,5 @@
 
+
 import { Link } from "react-router-dom"
 
 import Container from "./Conteiner"
@@ -25,5 +26,6 @@ function Navbar() {
 
     )
 }
+
 
 export default Navbar;

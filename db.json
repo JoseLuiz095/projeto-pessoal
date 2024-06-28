@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "70fa",
+      "name": "5000",
+      "OrcaFacil": 0,
+      "services": []
+    },
+    {
+      "id": "d8d0",
+      "name": "7",
+      "OrcaFacil": 0,
+      "services": []
+    },
+    {
+      "id": "5ba4",
+      "name": "José luiz",
+      "budget": "7",
+      "OrcaFacil": 0,
+      "services": []
+    },
+    {
+      "id": "0866",
+      "name": "José luiz",
+      "budget": "7",
+      "OrcaFacil": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
