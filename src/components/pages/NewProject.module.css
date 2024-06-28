@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .newproject_container{
     width: 450px;
     margin: 0 auto;
@@ -9,16 +8,4 @@
 }
 .newproject_container p{
     color: #7b7b7b;
-=======
-.newproject_container{
-    width: 450px;
-    margin: 0 auto;
-    padding: 3em;
-}
-.newproject_container h1{
-    margin-bottom: .05em;
-}
-.newproject_container p{
-    color: #7b7b7b;
->>>>>>> origin/main
 }
